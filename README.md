@@ -32,12 +32,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzdinnertime&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## 📫 Contact
 - 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/jason-chen-823b3528b/)
 - 📧 Email: chenjason214@gmail.com
