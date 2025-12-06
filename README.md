@@ -26,7 +26,7 @@
 
 ## 📊 LeetCode
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzdinnertime&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d_nnertime&hide_border=true&theme=transparent)
 
 🔗 https://leetcode.com/d_nnertime/
 
