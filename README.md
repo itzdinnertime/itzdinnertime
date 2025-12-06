@@ -26,7 +26,7 @@
 
 ## 📊 LeetCode
 
-![LeetCode Stats](https://leetcode.com/u/d_nnertime/?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/d_nnertime?theme=dark)
 
 🔗 https://leetcode.com/d_nnertime/
 
