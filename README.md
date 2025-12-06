@@ -26,7 +26,7 @@
 
 ## 📊 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/d_nnertime?theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itzdinnertime&hide_border=true&theme=transparent)
 
 🔗 https://leetcode.com/d_nnertime/
 
