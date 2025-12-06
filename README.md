@@ -26,7 +26,7 @@
 
 ## 📊 LeetCode
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d_nnertime&show_icons=true&hide_border=true&theme=github_dark)
+[![LeetCode](https://img.shields.io/badge/LeetCode-d_nnertime-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/d_nnertime/)
 
 🔗 https://leetcode.com/d_nnertime/
 
