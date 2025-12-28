@@ -25,7 +25,7 @@
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/jason-chen-823b3528b/)
+- 💼 LinkedIn: [Klick me!](https://www.linkedin.com/in/jason-chen-823b3528b/)
 - 📧 Email: chenjason214@gmail.com
 
 <!---
