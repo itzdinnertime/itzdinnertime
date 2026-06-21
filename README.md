@@ -2,7 +2,7 @@
 - 👀 I’m interested in koding
 - 🌱 I’m currently learning koding
 - 💞️ I’m looking to collaborate on koding
-- 📫 How to teach me koding
+- 📫 How to Reach me koding
 
 ## 🛠️ Languages
 
